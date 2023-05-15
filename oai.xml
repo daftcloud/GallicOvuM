@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<results ResultsGenerationSearchTime="0:00:00.016" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+ <visibility_rights>
+  all
+ </visibility_rights>
+ <notice>
+  <record>
+   <header>
+    <identifier>
+     oai:bnf.fr:gallica/ark:/12148/bpt6k1170201f
+    </identifier>
+    <datestamp>
+     2022-06-22
+    </datestamp>
+    <setSpec>
+     gallica:typedoc:partitions
+    </setSpec>
+   </header>
+   <metadata>
+    <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+     <dc:identifier>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1170201f
+     </dc:identifier>
+     <dc:title>
+      2 choeurs à 4 voix (S.C.T.B.) : avec accompagnement piano ad libitum : op. 68. N° 2, Les fleurs et les arbres / par Camille Saint-Saëns
+     </dc:title>
+     <dc:creator>
+      Saint-Saëns, Camille (1835-1921). Compositeur
+     </dc:creator>
+     <dc:contributor>
+      Gounod, Charles (1818-1893). Dédicataire
+     </dc:contributor>
+     <dc:publisher>
+      Durand, Schoenewerk &amp; Cie (Paris)
+     </dc:publisher>
+     <dc:description>
+      Titre uniforme : Saint-Saëns, Camille (1835-1921). Compositeur. [Les fleurs et les arbres. Op. 68, no 2]
+     </dc:description>
+     <dc:relation>
+      Notice d’oeuvre : http://catalogue.bnf.fr/ark:/12148/cb15896051f
+     </dc:relation>
+     <dc:date>
+      1883
+     </dc:date>
+     <dc:identifier>
+      https://gallica.bnf.frCotage D. S. &amp; Cie 3101 (2)
+     </dc:identifier>
+     <dc:description>
+      Présentation musicale : [Partition]
+     </dc:description>
+     <dc:format>
+      1 partition (6 p.) ; 29 cm
+     </dc:format>
+     <dc:relation>
+      Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb443923461
+     </dc:relation>
+     <dc:type>
+      Genre musical : choeur
+     </dc:type>
+     <dc:source>
+      Ancien fonds du Conservatoire, L-1720 (2)
+     </dc:source>
+     <dc:rights xml:lang="fre">
+      domaine public
+     </dc:rights>
+     <dc:rights xml:lang="eng">
+      public domain
+     </dc:rights>
+     <dc:format>
+      application/pdf
+     </dc:format>
+     <dc:format>
+      Nombre total de vues :  10
+     </dc:format>
+     <dc:description>
+      Choeurs profanes (voix mixtes, 4 voix)  -- acc. de piano -- +* 1800......- 1899......+:19e siècle:
+     </dc:description>
+     <dc:description>
+      Choeurs profanes (voix mixtes, 4 voix)  -- a cappella -- +* 1800......- 1899......+:19e siècle:
+     </dc:description>
+    </oai_dc:dc>
+   </metadata>
+  </record>
+ </notice>
+ <provenance>
+  bnf.fr
+ </provenance>
+ <source>
+  Ancien fonds du Conservatoire, L-1720 (2)
+ </source>
+ <typedoc>
+  partition
+ </typedoc>
+ <nqamoyen>
+  0.0
+ </nqamoyen>
+ <title>
+  2 choeurs à 4 voix (S.C.T.B.) : avec accompagnement piano ad libitum : op. 68. N° 2, Les fleurs et les arbres / par Camille Saint-Saëns
+ </title>
+ <date nbIssue="1">
+  1883
+ </date>
+ <first_indexation_date>
+  12/09/2016
+ </first_indexation_date>
+ <streamable>
+  false
+ </streamable>
+</results>
